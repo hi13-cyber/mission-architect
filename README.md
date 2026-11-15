@@ -3,7 +3,7 @@
 A fun web game where students design, launch and fly a complete space mission.
 Built for the NASA Space Apps Challenge 2026, challenge: **Space Mission Design Game**.
 
-**Play it:** (paste your GitHub Pages link here)
+**Play it:**(https://hi13-cyber.github.io/mission-architect/)
 
 ## How to play
 1. Choose a mission: Climate Watch, Lunar Ice Hunter, Red Planet Relay or Storm Chaser.
@@ -31,7 +31,7 @@ The numbers in the game are simplified for learning. They are not real mission d
 HTML, CSS and JavaScript in one file. Font: Fredoka (Google Fonts). All graphics are drawn with code.
 
 ## Use of AI
-(Write honestly which AI tools your team used and for what, for example code, text or ideas. Also write what your team did yourselves.)
+We used Claude (an AI assistant from Anthropic) to help us with the design and to help us understand the NASA Space Apps guidelines. Our team did the coding, planned the game, tested it, made changes, and prepared the GitHub page and the submission.
 
 ## Team
-(Write your team name and member names here.)
+Quad-Core Chaos
